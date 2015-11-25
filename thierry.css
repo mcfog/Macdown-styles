@@ -15,12 +15,12 @@ body {
 }
 
 li {
-  font-size: 110%;
+  font-size: 107%;
 }
-  li li {
+li li {
     font-size: 100%;
 }
-  li p {
+li p {
     font-size: 100%;
     margin: .5em 0;
 }
@@ -278,11 +278,13 @@ sub {
   top: -1px;
 }
 
+
 p, h5 {
   font-size: 1.1429em;
   line-height: 1.3125em;
-  margin: 1.3125em 0;
+/*  margin: 1.3125em 0;*/
 }
+
 
 dt, th {
   font-weight: 700;
