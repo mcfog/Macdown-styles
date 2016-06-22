@@ -2,7 +2,7 @@
 # mathilde has her main size set in percents...
 MODELS = thierry
 
-SIZES = 10 11 12 13 14 15 17 18 19 20
+SIZES = 10 11 12 13 14 15 16 17 18 19 20
 
 VARIANTS = $(foreach model,$(MODELS),$(foreach size,$(SIZES),$(model)$(size).css))
 
