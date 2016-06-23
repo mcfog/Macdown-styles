@@ -1,6 +1,6 @@
 #MODELS = thierry mathilde
 # mathilde has her main size set in percents...
-MODELS = thierry
+MODELS = thierry mathilde
 
 SIZES = 10 11 12 13 14 15 16 17 18 19 20
 
